@@ -1,0 +1,286 @@
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe.config
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.pdb
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.AssemblyReference.cache
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.Properties.Resources.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.GenerateResource.cache
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.exe
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.pdb
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhaCungCap01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhaCungCap02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormHoaDonCungCap01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormHoaDonCungCap02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLoaiNguyenLieu01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLoaiNguyenLieu02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhomThucUong01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhomThucUong02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong01.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong02.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDangNhap.resources
+C:\Users\Trinh Manh Quynh\source\repos\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe01.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe.config
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.AssemblyReference.cache
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDangNhap.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormMain.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu01.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu02.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe01.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong01.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong02.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.Properties.Resources.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.GenerateResource.cache
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CoreCompileInputs.cache
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.exe
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe02.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien01.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien02.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\EnvDTE.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\stdole.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CopyComplete
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormHoaDonCungCap.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhieuChi.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormKhachHang.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormGiaoDichKhachHang.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLoaiNguyenLieu.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhaCungCap.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhomThucUong.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLichLamViec.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportChiTietGDKH.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportHoaDonCungCapNL.resources
+D:\Winform\Cuoi Ky\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportGDKH.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe.config
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\EnvDTE.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\stdole.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.AssemblyReference.cache
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.SuggestedBindingRedirects.cache
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDangNhap.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportGDKH.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportHoaDonCungCapNL.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportChiTietGDKH.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormGiaoDichKhachHang.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormHoaDonCungCap.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormKhachHang.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLoaiNguyenLieu.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormMain.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu01.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu02.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhaCungCap.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien01.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien02.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhomThucUong.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe01.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe02.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhieuChi.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong01.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong02.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLichLamViec.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.Properties.Resources.resources
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.GenerateResource.cache
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CoreCompileInputs.cache
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CopyComplete
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.exe
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\Cuoi Ky\DOANB1\Ado.net\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDoiMatKhau.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.AssemblyReference.cache
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.SuggestedBindingRedirects.cache
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDangNhap.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDoiMatKhau.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormQuanLyTaiKhoan.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportGDKH.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportHoaDonCungCapNL.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormReportChiTietGDKH.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormGiaoDichKhachHang.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormHoaDonCungCap.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormKhachHang.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLoaiNguyenLieu.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormMain.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu01.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNguyenLieu02.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhaCungCap.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien01.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhanVien02.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormNhomThucUong.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe01.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhaChe02.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormPhieuChi.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong01.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThucUong02.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormLichLamViec.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormMainNV.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormDangKyTaiKhoan.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.Properties.Resources.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.GenerateResource.cache
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CoreCompileInputs.cache
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.exe
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe.config
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.exe
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\DoAnWinform_Demo02.pdb
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\EnvDTE.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\stdole.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.csproj.CopyComplete
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormThongKe01.resources
+D:\Winform\DOANB1\ADO.NET\DoAnWinform_Demo02\DoAnWinform_Demo02\obj\Debug\DoAnWinform_Demo02.FormTiLeNhomThucUongBanRa.resources
